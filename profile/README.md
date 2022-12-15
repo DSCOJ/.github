@@ -3,6 +3,14 @@
 
 TODO
 
+## Projects
+
+| Project              | Description                             |
+|----------------------|-----------------------------------------|
+| Online Judge Web UI  | Web UI for DSC Online Judge             |
+| Online Judge Backend | API backend server for DSC Online Jugde |
+| Judger               | Server to judge code                    |
+
 ## Contributing
 TODO
 
